@@ -10,4 +10,6 @@ Folder = src (Q1, Q2, Q3)
 
 PDF = ICS_Assignment_NurNazifaSarah.pdf
 
+* FOR Q3, COPY AND PASTE THE PATHWAY ADDRESS FOR 'employee.txt' in order to execute the program *
+
 ________________________________________________________________________________________________________________________________________________________________
